@@ -161,7 +161,7 @@ set -e
 
     container_user="dockerize-gui-app"
 
-    docker_image_name="exadra37/dockerize-gui-app-demo"
+    docker_image_name="exadra37/dockerize-graphical-user-interface-app-demo"
 
 
 ########################################################################################################################
