@@ -1,6 +1,20 @@
-# My Base Repository
+# Dockerize Gui App Demo
 
-Some short description here...
+In this *Dockerize Demo* we will show how simple is to *Dockerize* an *App* that has a **G**raphical **U**ser **I**nterface.
+
+To achieve this we will use:
+
+* [Dockerize GUI App](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app) - Base Docker image to dockerize any GUI App.
+* [Dockerize GUI App Demo](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app-demo) - Docker Image to run [Go For It App](http://manuel-kehl.de/projects/go-for-it) that I discovered [here](http://www.omgubuntu.co.uk/2016/11/go-task-timer-app-ubuntu-desktop).
+* [Bash CLI](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo) to run Dockerize GUI App Demo.
+
+
+## Show Your Appreciation
+
+If this is useful for you, please consider:
+
+* Share it on [Twitter](https://twitter.com/home?status=https%3A//hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app-demo%20%23Developers,%20%23DevOps%20and%20%23SysAsmin%20can%20%23Dockerize%20any%20%23App%20and%20run%20it%20from%20inside%20%23docker%20container.%20by%20%40Exadra37.%20).
+* [Pay me](https://www.paypal.me/exadra37) a coffee, a beer, a dinner or any other treat 😎.
 
 
 ## SEMANTIC VERSIONING
