@@ -11,7 +11,7 @@
 # @link    Linkedin: https://uk.linkedin.com/in/exadra37
 # @link    Twitter:  https://twitter.com/Exadra37
 
-FROM dockerize-graphical-user-interface-app
+FROM exadra37/dockerize-graphical-user-interface-app
 
 LABEL "com.exadra37.vendor"="Exadra37"
 LABEL com.exadra37.package-name="exadra37-docker-images/dockerize-graphical-user-interface-app-demo"
