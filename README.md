@@ -6,7 +6,7 @@ To achieve this we will use:
 
 * [Dockerize GUI App](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app) - Base Docker image to dockerize any GUI App.
 * [Dockerize GUI App Demo](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app-demo) - Docker Image to run [Go For It App](http://manuel-kehl.de/projects/go-for-it) that I discovered [here](http://www.omgubuntu.co.uk/2016/11/go-task-timer-app-ubuntu-desktop).
-* [Bash CLI](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo) to run Dockerize GUI App Demo.
+* [Bash CLI](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo) to run Dockerize GUI App Demo.
 
 
 ## Show Your Appreciation

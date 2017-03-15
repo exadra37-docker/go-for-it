@@ -7,7 +7,7 @@ Contributions are welcome, provided that hey follow this guidelines.
 
 ### In a Current Issue
 
-Browse the [current open issues](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo/issues) and participate in the
+Browse the [current open issues](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/issues) and participate in the
 discussion for the ones you can help.
 
 

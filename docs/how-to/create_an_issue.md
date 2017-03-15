@@ -20,7 +20,7 @@ Each issue will have is own Branch that are created as demonstrated [here](docs/
 Each issue should only target a specific bug or security flaw, unless they are tightly coupled to the point you can't
 solve them separately.
 
-Create the issue [here](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo/issues/new) with the template
+Create the issue [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/issues/new) with the template
 `bug_or_security_fix.md`.
 
 
