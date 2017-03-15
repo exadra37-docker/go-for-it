@@ -7,7 +7,7 @@
 > In order to persist data created inside the Container, by the App, we need to discover where is being saved and map it to the Host.
 >
 
-All commands will assume that you are in the root of the folder where you have [installed](install.md) the *Dockerize GUI App Demo*.
+All commands will assume that you are in the root of the folder where you have [installed](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/install.md) the *Dockerize GUI App Demo*.
 
 ## Help
 
@@ -28,3 +28,5 @@ $ ./dgad
 ```bash
 $ ./dgad -l
 ```
+
+**[HOME](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo)**

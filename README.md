@@ -5,8 +5,8 @@ In this *Dockerize Demo* we will show how simple is to *Dockerize* an *App* that
 To achieve this we will use:
 
 * [Dockerize GUI App](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app) - Base Docker image to dockerize any GUI App.
-* [Dockerize GUI App Demo](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app-demo) - Docker Image to run [Go For It App](http://manuel-kehl.de/projects/go-for-it) that I discovered [here](http://www.omgubuntu.co.uk/2016/11/go-task-timer-app-ubuntu-desktop).
-* [Bash CLI](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo) to run Dockerize GUI App Demo.
+* [Dockerize GUI App Demo](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app-demo) - Docker Image to run [Go For It App](http://manuel-kehl.de/projects/go-for-it) that I discovered [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/http://www.omgubuntu.co.uk/2016/11/go-task-timer-app-ubuntu-desktop).
+* [Bash CLI](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/docs/how-to/use.md) to run Dockerize GUI App Demo.
 
 
 ## Show Your Appreciation
@@ -24,22 +24,22 @@ This package will adhere to this [Semantic Version](https://gitlab.com/exadra37-
 
 ## AUTHOR
 
-More information about the Author can be found [here](AUTHOR.md).
+More information about the Author can be found [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/AUTHOR.md).
 
 
 ## CONTRIBUTORS
 
-All contributors can be found [here](CONTRIBUTORS.md).
+All contributors can be found [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/CONTRIBUTORS.md).
 
 
 ## LICENSE
 
-This repository uses GPL-3.0 license, that you can find [here](LICENSE).
+This repository uses GPL-3.0 license, that you can find [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/LICENSE).
 
 
 ## CONTRIBUTING IN ISSUES / MERGE REQUESTS
 
-All contributions are welcome provided that they follow [Contributing Guidelines](CONTRIBUTING.md), where you can find
+All contributions are welcome provided that they follow [Contributing Guidelines](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/CONTRIBUTING.md), where you can find
 how to _Create an Issue_ and _Merge Request_.
 
 
@@ -52,22 +52,22 @@ Watch [Boards](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo/
 
 ## HOW TO INSTALL
 
-To install just follow detailed instructions from [here](docs/how-to/install.md).
+To install just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/docs/how-to/install.md).
 
 
 ## HOW TO UNINSTALL
 
-To uninstall just follow detailed instructions from [here](docs/how-to/uninstall.md).
+To uninstall just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/docs/how-to/uninstall.md).
 
 
 ## HOW TO USE
 
-See usage examples [here](docs/how-to/use.md).
+See usage examples [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/docs/how-to/use.md).
 
 
 ## BRANCHES
 
-Branches are created as demonstrated [here](docs/how-to/create_branches.md).
+Branches are created as demonstrated [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/docs/how-to/create_branches.md).
 
 This are the type of branches we can see at any moment in the repository:
 
