@@ -159,7 +159,7 @@ set -e
 
     x11_socket=/tmp/.X11-unix
 
-    container_user="dockerize-gui-app"
+    container_user="dockerize"
 
     docker_image_name="exadra37/dockerize-graphical-user-interface-app-demo"
 
