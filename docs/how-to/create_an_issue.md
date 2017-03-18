@@ -26,12 +26,12 @@ Create the issue [here](https://gitlab.com/exadra37-docker-images/dockerize-grap
 
 ## New Feature / Improve Feature / Refracting Code
 
-Starts with the [Creation of a Milestone](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo/milestones/new).
+Starts with the [Creation of a Milestone](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/milestones/new).
 
 Now we should split what we want to do in many tasks as we can by creating an Issue for each task and assign the issue
 to the Milestone.
 
-Create each issue [here](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo/issues/new) using the relevant template:
+Create each issue [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/issues/new) using the relevant template:
 
 * `new_feature.md`
 * `improve_feature.md`

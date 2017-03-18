@@ -13,7 +13,7 @@ discussion for the ones you can help.
 
 ### In a new Issue
 
-If you have a new issue to report, please [create it](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo/issues/new) by
+If you have a new issue to report, please [create it](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/issues/new) by
 following the applicable [issue guidelines](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/docs/how-to/create_an_issue.md).
 
 

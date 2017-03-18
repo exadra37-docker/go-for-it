@@ -5,7 +5,7 @@ In this *Dockerize Demo* we will show how simple is to *Dockerize* an *App* that
 To achieve this we will use:
 
 * [Dockerize GUI App](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app) - Base Docker image to dockerize any GUI App.
-* [Dockerize GUI App Demo](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app-demo) - Docker Image to run [Go For It App](http://manuel-kehl.de/projects/go-for-it) that I discovered [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/http://www.omgubuntu.co.uk/2016/11/go-task-timer-app-ubuntu-desktop).
+* [Dockerize GUI App Demo](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app-demo) - Docker Image to run [Go For It App](http://manuel-kehl.de/projects/go-for-it) that I discovered [here](http://www.omgubuntu.co.uk/2016/11/go-task-timer-app-ubuntu-desktop).
 * [Bash CLI](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/master/docs/how-to/use.md) to run Dockerize GUI App Demo.
 
 
@@ -45,9 +45,9 @@ how to _Create an Issue_ and _Merge Request_.
 
 ## ROAD MAP
 
-Check [Milestones](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo/milestones) to see what Goals I want to achieve.
+Check [Milestones](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/milestones) to see what Goals I want to achieve.
 
-Watch [Boards](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo/boards) to keep track of what is going on.
+Watch [Boards](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/boards) to keep track of what is going on.
 
 
 ## HOW TO INSTALL
