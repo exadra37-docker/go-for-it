@@ -12,7 +12,7 @@ Ideally refracted code should not impact the **_Public Api_** of Routes, CLI or 
 
 Try to only refract a Class at a time, but if not possible don't go for more than 1 HTTP or CLI end point.
 
-## [Path/To/Filename.extension](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo/blob/perma-link-hash/Filename.extension)
+## [Path/To/Filename.extension](https://gitlab.com/exadra37-docker/productivity-tool/go-for-it/blob/perma-link-hash/Filename.extension)
 
 Provide here as much detail as you can about why and what code is to be extracted to other classes, refracted and maintained in same class or simply to be removed.
 

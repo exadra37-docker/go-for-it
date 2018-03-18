@@ -7,4 +7,4 @@ Merge requests must use one of the available templates and all topics marked as 
 All optional topics not used must maintain their title and have their body replaced by 'N/A'.
 
 
-**[HOME](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo)**
+**[HOME](https://gitlab.com/exadra37-docker/productivity-tool/go-for-it)**

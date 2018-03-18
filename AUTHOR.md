@@ -23,4 +23,4 @@ https://exadra37.com
 * **Prestashop Moderator:** https://www.prestashop.com/forums/user/34974-exadra37
 
 
-**[HOME](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo)**
+**[HOME](https://gitlab.com/exadra37-docker/productivity-tool/go-for-it)**

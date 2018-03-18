@@ -4,13 +4,13 @@
 #### Git Clone Project
 
 ```bash
-$ git clone https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo.git
+$ git clone https://gitlab.com/exadra37-docker/productivity-tool/go-for-it.git
 ```
 
 #### Enter Project Dir
 
 ```bash
-$ cd dockerize-graphical-user-interface-app-demo
+$ cd go-for-it
 ```
 
 #### Confirm Content
@@ -42,4 +42,4 @@ src
 >$ chmod ug+x dgad
 >```
 
-**[HOME](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo)**
+**[HOME](https://gitlab.com/exadra37-docker/productivity-tool/go-for-it)**

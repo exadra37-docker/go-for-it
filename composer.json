@@ -1,10 +1,16 @@
 {
-    "name": "exadra37-docker-images/dockerize-graphical-user-interface-app-demo",
-    "description": "All my repositories will have this one as starting point.",
+    "name": "exadra37-docker/go-for-it",
+    "description": "Productivity tool to help us manage our time.",
     "keywords": [
-        "Exadra37"
+        "Exadra37",
+        "go-for-it",
+        "docker",
+        "docker-gui",
+        "dockerize",
+        "docker-image",
+        "docker-container"
     ],
-    "homepage": "https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo",
+    "homepage": "https://gitlab.com/exadra37-docker/productivity-tool/go-for-it",
     "license": "GPL-3.0",
     "authors": [
         {

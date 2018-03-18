@@ -1,6 +1,6 @@
 #!/bin/bash
-# @package exadra37-docker-images/dockerize-graphical-user-interface-app-demo
-# @link    https://gitlab.com/u/exadra37-docker-images/dockerize-graphical-user-interface-app-demo
+# @package exadra37-docker/productivity-tool/go-for-it
+# @link    https://gitlab.com/u/exadra37-docker/productivity-tool/go-for-it
 # @since   12 March 2017
 # @license GPL-3.0
 # @author  Exadra37(Paulo Silva) <exadra37ingmailpointcom>

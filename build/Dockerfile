@@ -1,5 +1,5 @@
-# @package exadra37-docker-images/dockerize-graphical-user-interface-app-demo
-# @link    https://gitlab.com/u/exadra37-docker-images/dockerize-graphical-user-interface-app-demo
+# @package exadra37-docker/productivity-tool/go-for-it
+# @link    https://gitlab.com/u/exadra37-docker/productivity-tool/go-for-it
 # @since   12 March 2017
 # @license GPL-3.0
 # @author  Exadra37(Paulo Silva) <exadra37ingmailpointcom>
@@ -14,7 +14,7 @@
 FROM exadra37/dockerize-graphical-user-interface-app
 
 LABEL "com.exadra37.vendor"="Exadra37"
-LABEL com.exadra37.package-name="exadra37-docker-images/dockerize-graphical-user-interface-app-demo"
+LABEL com.exadra37.package-name="exadra37-docker/productivity-tool/go-for-it"
 LABEL version="0.0.1.1"
 LABEL description="Demo to Dockerize any App with a graphical user interface."
 
